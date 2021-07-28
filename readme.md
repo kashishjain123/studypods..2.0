@@ -8,10 +8,10 @@
                         <td>
                             <font face="arial" color="#FFFFFF">
                              <div>
-                                 <p><b>Name : </b><i>Priya balundiya </i></p>
-                                 <p><b>Branch : </b><i>IT</i></p>
+                                 <p><b>Name : </b><i>Kashish</i></p>
+                                 <p><b>Branch : </b><i>Chemical</i></p>
                                  <p><b>Year : </b><i>1st</i></p>
-                                 <p><b>SP No. : </b><i>SP0201</i></p>
+                                 <p><b>SP No. : </b><i>SP0205</i></p>
                                  <p><b>Mentor Name : </b><i>Anurag Gupta</i></p>
                              </div>
                             </font>
@@ -36,10 +36,10 @@
             <tbody>
                 <tr>
                     <td>1</td>
-                    <td>26/07/2021</td>
-                    <td>CSS used in Exam form</td>
-                    <td>CSS::external,internal,<br>inline stlye,comments</td>
-                    <td>NO</td>
+                    <td>28/07/2021</td>
+                    <td>Application Form</td>
+                    <td>TO create an application form for job</td>
+                    <td>in country categories</td>
                     <td></td>
                 </tr>
                 <tr>
