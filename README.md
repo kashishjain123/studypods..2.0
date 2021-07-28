@@ -1,8 +1,8 @@
 # Studypod2.0
 <body>
      <div>
-    <p><b>Name : </b><i>Chetna Gupta</i></p>
-    <p><b>Branch : </b><i>IT</i></p>
+    <p><b>Name : </b><i>Kashish Jain</i></p>
+    <p><b>Branch : </b><i>Chemical</i></p>
     <p><b>Year : </b><i>1st</i></p>
     <p><b>SP No. : </b><i>SP0201</i></p>
     <p><b>Mentor Name : </b><i>Anurag Gupta</i></p>
