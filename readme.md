@@ -50,14 +50,13 @@
                     <td>No</td>
                     <td></td>
 </tr>
+                  <tr>
                     <td>3</td>
                     <td>26/07/2021</td>
                     <td>Sites</td>
                     <td>To add useful sites in a website</td>
                     <td>No</td>
                     <td></td>
-
-            </tbody>
-        </table>
-    </div>
+                  </tr>
+            
 </body>
