@@ -22,20 +22,27 @@
             <tbody>
                 <tr>
                     <td>1</td>
-                    <td>26/07/2021</td>
-                    <td>CSS used in Exam form</td>
-                    <td>CSS::external,internal,<br>inline stlye,comments</td>
-                    <td>NO</td>
-                    <td></td>
+                    <td>28/07/2021</td>
+                    <td>Application form </td>
+                    <td>To create an application form for job</td>
+                    <td>I had difficulty to add categories of all countries</td>
+                    <td>I searched on Google and pasted the code from option value attribute of all countries to my code</td>
                 </tr>
                 <tr>
+                                     
                     <td>2</td>
-                    <td>27/07/2021</td>
-                    <td>Styling</image></td>
-                    <td>Background image<br>box model(margin,padding,<br>border,box size)</td>
+                     <td>27/07/2021</td>
+                    <td>Wd file</td>
+                    <td>To add headings,Chemical reactions and Formulas</td>
+                    <td>No</td>
+                    <td></td>
+        </tr>
+                         <td>3</td>
+                    <td>26/07/2021</td>
+                    <td>Sites</td>
+                    <td>To add useful sites in one website</td>
                     <td>NO</td>
                     <td></td>
-                </tr>
             </tbody>
         </table>
     </div>
