@@ -1,4 +1,4 @@
-Jj
+
 <body>
     <table id="header" border="0" width="100" bgcolor="#292929">
         <tr>
@@ -43,8 +43,7 @@ video to learn css in hindi with notes. </td>
                     <td>No</td>
                     <td></td>
                   </tr>
-            
-                <tr>
+ <tr>
                     <td>3</td>
                     <td>28/07/2021</td>
                     <td>Application Form</td>
