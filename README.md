@@ -29,20 +29,21 @@
                     <td>I searched on Google and pasted the code from option value attribute of all countries to my code</td>
                 </tr>
                 <tr>
-                                     
-                    <td>2</td>
+                     <td>2</td>
                      <td>27/07/2021</td>
                     <td>Wd file</td>
                     <td>To add headings,Chemical reactions and Formulas</td>
                     <td>No</td>
                     <td></td>
         </tr>
-                         <td>3</td>
+                     <tr>    
+                          <td>3</td>
                     <td>26/07/2021</td>
                     <td>Sites</td>
                     <td>To add useful sites in one website</td>
                     <td>NO</td>
                     <td></td>
+                 </tr>
             </tbody>
         </table>
     </div>
