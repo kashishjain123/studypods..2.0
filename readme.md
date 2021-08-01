@@ -34,6 +34,22 @@
                 <th width="350">Solution</th>
             </thead>
             <tbody>
+                          <tr>                   
+                <td>6</td>
+                    <td>31/07/2021</td>
+                    <td>List</td>
+                    <td>To make list of food items many person like according to their choices</td>
+                    <td>No</td>
+                    <td></td>
+</tr>
+          <tr>                   
+                <td>5</td>
+                    <td>30/07/2021</td>
+                    <td>Table</td>
+                    <td>To add Name,Roll no. and Marks of students</td>
+                    <td>No</td>
+                    <td></td>
+</tr>
 <tr>
                     <td>4</td>
                     <td>29/07/2021</td>
