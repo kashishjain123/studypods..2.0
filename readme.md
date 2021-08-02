@@ -34,6 +34,14 @@
                 <th width="350">Solution</th>
             </thead>
             <tbody>
+                      <tr>                   
+                <td>7</td>
+                    <td>01/08/2021</td>
+                    <td>Article on HTML</td>
+                    <td>To write about HTML language</td>
+                    <td>No</td>
+                    <td></td>
+                </tr>
                           <tr>                   
                 <td>6</td>
                     <td>31/07/2021</td>
