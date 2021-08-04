@@ -34,7 +34,7 @@
                 <th width="350">Solution</th>
             </thead>
             <tbody>
-                     <tr>                   
+            <tr>                   
                 <td>10</td>
                     <td>04/08/2021</td>
                     <td>No work</td>
@@ -43,35 +43,36 @@
                     <td></td>
 </tr>
 
-            <tr>         
+           <tr>         
                 <td>9</td>
                     <td>03/08/2021</td>
                     <td>Index</td>
                     <td>How to add CSS with HTML 
                          external,inline,internal css</td>
                     <td>No</td>
-                    <td></td>
-                </tr>
+                <td></td>
+</tr>
 
-            <tr>         
+           <tr>         
                 <td>8</td>
                     <td>02/08/2021</td>
                     <td>HTML</td>
                     <td>Article on HTML</td>
                     <td>No</td>
-                    <td></td>
-                </tr>
+                <td></td>
+                
+</tr>
 
 
-              <tr>                   
+           <tr>                   
                 <td>7</td>
                     <td>01/08/2021</td>
                     <td>Article on HTML</td>
                     <td>To write about HTML language</td>
                     <td>No</td>
                     <td></td>
-                </tr>
-     <tr>                   
+ </tr>
+          <tr>                   
                 <td>6</td>
                     <td>31/07/2021</td>
                     <td>List</td>
