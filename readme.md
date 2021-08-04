@@ -33,18 +33,15 @@
                 <th width="350">Difficulty</th>
                 <th width="350">Solution</th>
             </thead>
-            <tbody>
-                
-          <tr>                   
-                <td>10</td>
+                <tr>
+                  <td>10</td>
                     <td>04/08/2021</td>
                     <td>No work</td>
                     <td></td>
                     <td></td>
                     <td></td>
                 </tr>
-                
-          <tr>                   
+                <tr>                   
                 <td>9</td>
                     <td>03/08/2021</td>
                     <td>Index</td>
@@ -52,8 +49,7 @@
               external,internal,inline CSS</td>
                     <td>No</td>
                     <td></td>
-
-                </tr>       
+</tr>       
           <tr>                   
                 <td>8</td>
                     <td>02/08/2021</td>
@@ -62,8 +58,7 @@
                     <td>No</td>
                     <td></td>
                 </tr>
-                
-          <tr>                   
+            <tr>                   
                 <td>7</td>
                     <td>01/08/2021</td>
                     <td>HTML</td>
@@ -71,9 +66,7 @@
                     <td>No</td>
                     <td></td>
                 </tr>
-                
-
-          <tr>                   
+            <tr>                   
                 <td>6</td>
                     <td>31/07/2021</td>
                     <td>List</td>
@@ -88,7 +81,7 @@
                     <td>To add Name,Roll no. and Marks of students</td>
                     <td>No</td>
                     <td></td>
-</tr>
+          </tr>
 <tr>
                     <td>4</td>
                     <td>29/07/2021</td>
