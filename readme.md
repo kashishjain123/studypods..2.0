@@ -33,7 +33,9 @@
                 <th width="350">Difficulty</th>
                 <th width="350">Solution</th>
             </thead>
-            <tbody>
+            <tbody>>
+                
+        
             <tr>                   
                 <td>10</td>
                     <td>04/08/2021</td>
@@ -59,11 +61,8 @@
                     <td>HTML</td>
                     <td>Homepage of Dresses</td>
                     <td>No</td>
-                <td></td>
-                
-</tr>
-
-
+               <td></td>
+                </tr>
            <tr>                   
                 <td>7</td>
                     <td>01/08/2021</td>
