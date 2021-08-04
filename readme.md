@@ -34,7 +34,7 @@
                 <th width="350">Solution</th>
             </thead>
             <tbody>
-                                          <tr>                   
+     <tr>                   
                 <td>10</td>
                     <td>04/08/2021</td>
                     <td>No work</td>
@@ -43,7 +43,7 @@
                     <td></td>
 </tr>
 
-                                          <tr>                   
+    <tr>                   
                 <td>9</td>
                     <td>03/08/2021</td>
                     <td>Index</td>
@@ -53,7 +53,7 @@
                     <td></td>
 </tr>
 
-                                          <tr>                   
+      <tr>                   
                 <td>8</td>
                     <td>02/08/2021</td>
                     <td>Index</td>
@@ -63,7 +63,7 @@
                     <td></td>
 </tr>
 
-                      <tr>                   
+              <tr>                   
                 <td>7</td>
                     <td>01/08/2021</td>
                     <td>Article on HTML</td>
