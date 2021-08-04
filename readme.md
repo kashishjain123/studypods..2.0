@@ -43,7 +43,7 @@
                     <td></td>
 </tr>
 
-    <tr>                   
+            <tr>         
                 <td>9</td>
                     <td>03/08/2021</td>
                     <td>Index</td>
@@ -51,9 +51,9 @@
                          external,inline,internal css</td>
                     <td>No</td>
                     <td></td>
-</tr>
+                </tr>
 
-      <tr>                   
+            <tr>
                 <td>8</td>
                     <td>02/08/2021</td>
                     <td>Index</td>
@@ -61,7 +61,7 @@
                         syntex of CSS </td>
                     <td>No</td>
                     <td></td>
-</tr>
+                </tr>
 
               <tr>                   
                 <td>7</td>
@@ -71,7 +71,7 @@
                     <td>No</td>
                     <td></td>
                 </tr>
-                          <tr>                   
+     <tr>                   
                 <td>6</td>
                     <td>31/07/2021</td>
                     <td>List</td>
