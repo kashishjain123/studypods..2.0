@@ -122,5 +122,6 @@ video to learn css in hindi with notes. </td>
                     <td>No</td>
                     <td></td>
                   </tr>
+        </tbody>
             
 </body>
