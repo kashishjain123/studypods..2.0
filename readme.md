@@ -34,7 +34,7 @@
                 <th width="350">Solution</th>
             </thead>
             <tbody>
-     <tr>                   
+                     <tr>                   
                 <td>10</td>
                     <td>04/08/2021</td>
                     <td>No work</td>
@@ -53,15 +53,15 @@
                     <td></td>
                 </tr>
 
-            <tr>
+            <tr>         
                 <td>8</td>
                     <td>02/08/2021</td>
-                    <td>Index</td>
-                    <td>Introduction of CSS
-                        syntex of CSS </td>
+                    <td>HTML</td>
+                    <td>Article on HTML</td>
                     <td>No</td>
                     <td></td>
                 </tr>
+
 
               <tr>                   
                 <td>7</td>
