@@ -33,7 +33,15 @@
                 <th width="350">Difficulty</th>
                 <th width="350">Solution</th>
             </thead>
-                <tr>
+                  <tr>                   
+                <td>16</td>
+                    <td>05/08/2021</td>
+                    <td>index</td>
+                    <td>Try to improve previous file</td>
+                    <td>No</td>
+                    <td></td>
+                </tr>
+            <tr>
                   <td>15</td>
                     <td>04/08/2021</td>
                     <td>No work</td>
@@ -49,8 +57,8 @@
               external,internal,inline CSS</td>
                     <td>No</td>
                     <td></td>
-</tr>       
-          <tr>                   
+</tr>
+        <tr>                   
                 <td>13</td>
                     <td>02/08/2021</td>
                     <td>Introduction/syntax of CSS</td>
