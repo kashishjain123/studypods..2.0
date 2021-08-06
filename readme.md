@@ -34,7 +34,7 @@
                 <th width="350">Solution</th>
             </thead>
                 <tr>
-                  <td>10</td>
+                  <td>15</td>
                     <td>04/08/2021</td>
                     <td>No work</td>
                     <td></td>
@@ -42,7 +42,7 @@
                     <td></td>
                 </tr>
                 <tr>                   
-                <td>9</td>
+                <td>14</td>
                     <td>03/08/2021</td>
                     <td>Index</td>
                     <td>How to add CSS with HTML 
@@ -51,7 +51,7 @@
                     <td></td>
 </tr>       
           <tr>                   
-                <td>8</td>
+                <td>13</td>
                     <td>02/08/2021</td>
                     <td>Introduction/syntax of CSS</td>
                     <td>Basic of CSS</td>
@@ -59,7 +59,7 @@
                     <td></td>
                 </tr>
             <tr>                   
-                <td>7</td>
+                <td>12</td>
                     <td>01/08/2021</td>
                     <td>HTML</td>
                     <td>Article on HTML</td>
@@ -67,7 +67,7 @@
                     <td></td>
                 </tr>
             <tr>                   
-                <td>6</td>
+                <td>11</td>
                     <td>31/07/2021</td>
                     <td>List</td>
                     <td>To make list of food items many person like according to their choices</td>
@@ -75,7 +75,7 @@
                     <td></td>
                 </tr>
           <tr>                   
-                <td>5</td>
+                <td>10</td>
                     <td>30/07/2021</td>
                     <td>Table</td>
                     <td>To add Name,Roll no. and Marks of students</td>
@@ -83,7 +83,7 @@
                     <td></td>
           </tr>
 <tr>
-                    <td>4</td>
+                    <td>9</td>
                     <td>29/07/2021</td>
                     <td>Video</td>
                     <td>To add useful an useful youTube 
@@ -92,7 +92,7 @@ video to learn css in hindi with notes. </td>
                     <td></td>
                   </tr>
  <tr>
-                    <td>3</td>
+                    <td>8</td>
                     <td>28/07/2021</td>
                     <td>Application Form</td>
                     <td>TO create an application form for job</td>
@@ -100,7 +100,7 @@ video to learn css in hindi with notes. </td>
                     <td></td>
                 </tr>
 <tr>
-                    <td>2</td>
+                    <td>7</td>
                     <td>27/07/2021</td>
                     <td>WD file</td>
                     <td>To add headings,chemical reactions and formulas</td>
@@ -108,13 +108,58 @@ video to learn css in hindi with notes. </td>
                     <td></td>
 </tr>
                   <tr>
-                    <td>1</td>
+                    <td>6</td>
                     <td>26/07/2021</td>
                     <td>Sites</td>
                     <td>To add useful sites in a website</td>
                     <td>No</td>
                     <td></td>
                   </tr>
+                          <tr>
+                    <td>5</td>
+                    <td>25/07/2021</td>
+                    <td>index</td>
+                    <td>to add any image</td>
+                    <td>No</td>
+                    <td></td>
+                  </tr>
+                          <tr>
+                    <td>4</td>
+                    <td>24/07/2021</td>
+                    <td>index</td>
+                    <td>Use of section and div tag</td>
+                    <td>No</td>
+                    <td></td>
+                  </tr>
+                          <tr>
+                    <td>3</td>
+                    <td>23/07/2021</td>
+                    <td>index</td>
+                   <td>To add any link by anchor tag</td>
+                    <td>No</td>
+                    <td></td>
+                  </tr>
+        <tr>
+                                <td>2</td>
+                    <td>22/07/2021</td>
+                    <td>index</td>
+                   <td>Lorem paragraph</td>
+                    <td>No</td>
+                    <td></td>
+                  </tr>
+        <tr>
+                                <td>1</td>
+                    <td>21/07/2021</td>
+                    <td>index</td>
+                   <td>basic starting of html</td>
+                    <td>No</td>
+                    <td></td>
+                  </tr>
+
+
+
+
+
         </tbody>
             
 </body>
