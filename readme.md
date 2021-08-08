@@ -33,7 +33,23 @@
                 <th width="350">Difficulty</th>
                 <th width="350">Solution</th>
             </thead>
-                  <tr>                   
+                                <tr>                   
+                <td>18</td>
+                    <td>07/08/2021</td>
+                    <td>No work due to project work</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+</tr>
+                <tr>                   
+                <td>17</td>
+                    <td>06/08/2021</td>
+                    <td>No work due to project work</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+</tr>
+        <tr>                   
                 <td>16</td>
                     <td>05/08/2021</td>
                     <td>index</td>
