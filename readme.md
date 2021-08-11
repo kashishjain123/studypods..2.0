@@ -33,6 +33,14 @@
                 <th width="350">Difficulty</th>
                 <th width="350">Solution</th>
             </thead>
+        <tr>
+                <td>19</td>
+                <td>10/08/2021</td>
+                <td>basic of java script start</td>
+                <td>complete java script</td>
+                <td>NO</td>
+                <td></td>
+            </tr>
                                 <tr>                   
                 <td>18</td>
                     <td>07/08/2021</td>
