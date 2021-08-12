@@ -74,8 +74,7 @@
                     <td></td>
                     <td></td>
 </tr>
-
-                                <tr>                   
+ <tr>                   
                 <td>18</td>
                     <td>07/08/2021</td>
                     <td>No work due to project work</td>
