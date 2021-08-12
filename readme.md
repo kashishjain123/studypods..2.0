@@ -65,8 +65,7 @@
                     <td></td>
                     <td></td>
 </tr>
-
-                                        <tr>                   
+        <tr>                   
                 <td>19</td>
                     <td>08/08/2021</td>
                     <td>project work</td>
