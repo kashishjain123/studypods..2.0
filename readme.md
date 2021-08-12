@@ -33,14 +33,50 @@
                 <th width="350">Difficulty</th>
                 <th width="350">Solution</th>
             </thead>
+                                        <tr>                   
+                <td>23</td>
+                    <td>12/08/2021</td>
+                    <td>css practicek/td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+</tr>
+
+                                        <tr>                   
+                <td>22</td>
+                    <td>11/08/2021</td>
+                    <td>remain css</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+</tr>
+
         <tr>
-                <td>19</td>
+                <td>21</td>
                 <td>10/08/2021</td>
                 <td>basic of java script start</td>
                 <td>complete java script</td>
                 <td>NO</td>
                 <td></td>
             </tr>
+                                        <tr>                   
+                <td>20</td>
+                    <td>09/08/2021</td>
+                    <td>No work</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+</tr>
+
+                                        <tr>                   
+                <td>19</td>
+                    <td>08/08/2021</td>
+                    <td>project work</td>
+                    <td>project on engineering college</td>
+                    <td></td>
+                    <td></td>
+</tr>
+
                                 <tr>                   
                 <td>18</td>
                     <td>07/08/2021</td>
