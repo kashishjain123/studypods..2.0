@@ -41,8 +41,7 @@
                     <td></td>
                     <td></td>
 </tr>
-
-                                        <tr>                   
+ <tr>                   
                 <td>22</td>
                     <td>11/08/2021</td>
                     <td>remain css</td>
@@ -50,8 +49,7 @@
                     <td></td>
                     <td></td>
 </tr>
-
-        <tr>
+ <tr>
                 <td>21</td>
                 <td>10/08/2021</td>
                 <td>basic of java script start</td>
