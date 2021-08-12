@@ -36,7 +36,7 @@
                                         <tr>                   
                 <td>23</td>
                     <td>12/08/2021</td>
-                    <td>css practicek</td>
+                    <td>css practice</td>
                     <td></td>
                     <td></td>
                     <td></td>
