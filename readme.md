@@ -49,13 +49,23 @@
                     <td>No</td>
                     <td></td>
 </tr>
+                                                <tr>            
+ <tr>                   
+                <td>23</td>
+                    <td>12/08/2021</td>
+                    <td>css practice</td>
+                    <td>practice of css</td>
+                    <td>no</td>
+                    <td></td>
+</tr>
+
                                         <tr>            
  <tr>                   
                 <td>22</td>
                     <td>11/08/2021</td>
                     <td>remain css</td>
-                    <td></td>
-                    <td></td>
+                    <td>practice of css</td>
+                    <td>no</td>
                     <td></td>
 </tr>
  <tr>
