@@ -33,14 +33,23 @@
                 <th width="350">Difficulty</th>
                 <th width="350">Solution</th>
             </thead>
-                                        <tr>                   
-                <td>23</td>
-                    <td>12/08/2021</td>
-                    <td>css practice</td>
+                                                <tr>                   
+                <td>25</td>
+                    <td>14/08/2021</td>
+                    <td>music.html&style.css</td>
+                    <td>Making music player project</td>
                     <td></td>
                     <td></td>
+        </tr>
+        <tr>                   
+                <td>24</td>
+                    <td>13/08/2021</td>
+                    <td>general file of css</td>
+                    <td>To change in html file by adding css</td>
+                    <td>No</td>
                     <td></td>
 </tr>
+                                        <tr>            
  <tr>                   
                 <td>22</td>
                     <td>11/08/2021</td>
