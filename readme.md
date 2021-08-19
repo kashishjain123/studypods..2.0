@@ -42,7 +42,7 @@
                   <td></td>
       </tr>
       <tr>
-              <td>26</td>
+              <td>29</td>
                                                                   <td>18/08/2021</td>
                                       <td>music.html&style.css</td>
                                                                   <td>music player done </td>
@@ -50,7 +50,7 @@
                                                                   <td>Solved by searching and understanding that</td>
       </tr>
 <tr>                   
-              <td>26</td>
+              <td>28</td>
                                                                   <td>17/08/2021</td>
                                       <td>music.html&style.css</td>
                   <td>More improvement in music player app</td>
@@ -65,8 +65,7 @@
                   <td></td>
                   <td></td>
       </tr>
-
-                                                      <tr>                   
+ <tr>                   
               <td>26</td>
                   <td>15/08/2021</td>
                                       <td>music.html&style.css</td>
@@ -99,8 +98,7 @@
                   <td>no</td>
                   <td></td>
 </tr>
-
-                                      <tr>            
+    <tr>            
 <tr>                   
               <td>22</td>
                   <td>11/08/2021</td>
