@@ -35,7 +35,7 @@
           </thead>
                                                               <tr>                   
               <td>30</td>
-                  <td>15/08/2021</td>
+                  <td>19/08/2021</td>
                                                                   <td>style.css</td>
                                                                   <td>CSS completed</td>
                   <td></td>
