@@ -34,7 +34,7 @@
               <th width="350">Solution</th>
           </thead>
                                                               <tr>                   
-              <td>26</td>
+              <td>30</td>
                   <td>15/08/2021</td>
                                                                   <td>style.css</td>
                                                                   <td>CSS completed</td>
@@ -58,7 +58,7 @@
                   <td></td>
       </tr>
       <tr>                   
-              <td>27/td>
+              <td>27</td>
                                                                   <td>16/08/2021</td>
                                       <td>music.html&style.css</td>
                   <td>More improvement in music player app</td>
