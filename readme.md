@@ -36,7 +36,7 @@
                   <td>31</td>
                                                                   <td>20/08/2021</td>
                                       <td>script.js</td>
-                  <td>basic js</td>
+                  <td>Basic Javascript</td>
                   <td></td>
                   <td></td>
       </tr>
@@ -283,12 +283,6 @@ video to learn css in hindi with notes. </td>
                  <td>basic starting of html</td>
                   <td>No</td>
                   <td></td>
-                </tr>
-
-
-
-
-
-      </tbody>
-          
-</body>
+    </tr>
+    </tbody>
+    </body>
