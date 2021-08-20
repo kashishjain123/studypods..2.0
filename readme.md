@@ -33,7 +33,14 @@
               <th width="350">Difficulty</th>
               <th width="350">Solution</th>
           </thead>
-                                                              <tr>                   
+                  <td>31</td>
+                                                                  <td>20/08/2021</td>
+                                      <td>script.js</td>
+                  <td>basic js</td>
+                  <td></td>
+                  <td></td>
+      </tr>
+  <tr>                   
               <td>30</td>
                   <td>19/08/2021</td>
                                                                   <td>style.css</td>
