@@ -38,7 +38,7 @@
                                                                   <td>21/08/2021</td>
                                       <td>script.js</td>
                   <td>Basic Practice of Javascript</td>
-                  <td></td>
+                  <td>no</td>
                   <td></td>
       </tr>
     <tr>
@@ -46,7 +46,7 @@
                                                                   <td>20/08/2021</td>
                                       <td>script.js</td>
                   <td>Basic Javascript</td>
-                  <td></td>
+                  <td>no</td>
                   <td></td>
       </tr>
   <tr>                   
@@ -54,7 +54,7 @@
                   <td>19/08/2021</td>
                                                                   <td>style.css</td>
                                                                   <td>CSS completed</td>
-                  <td></td>
+                  <td>no</td>
                   <td></td>
       </tr>
       <tr>
@@ -70,7 +70,7 @@
                                                                   <td>17/08/2021</td>
                                       <td>music.html&style.css</td>
                   <td>More improvement in music player app</td>
-                  <td></td>
+                  <td>no</td>
                   <td></td>
       </tr>
       <tr>                   
@@ -78,7 +78,7 @@
                                                                   <td>16/08/2021</td>
                                       <td>music.html&style.css</td>
                   <td>More improvement in music player app</td>
-                  <td></td>
+                  <td>no</td>
                   <td></td>
       </tr>
  <tr>                   
@@ -86,7 +86,7 @@
                   <td>15/08/2021</td>
                                       <td>music.html&style.css</td>
                   <td>More improvement in music player app</td>
-                  <td></td>
+                  <td>no</td>
                   <td></td>
                                                       </tr>
       <tr>                   
@@ -94,7 +94,7 @@
                   <td>14/08/2021</td>
                   <td>music.html&style.css</td>
                   <td>Making music player project</td>
-                  <td></td>
+                  <td>no</td>
                   <td></td>
       </tr>
       <tr>                   
@@ -102,7 +102,7 @@
                   <td>13/08/2021</td>
                   <td>general file of css</td>
                   <td>To change in html file by adding css</td>
-                  <td>No</td>
+                  <td>no</td>
                   <td></td>
 </tr>
                                               <tr>            
@@ -128,7 +128,7 @@
               <td>10/08/2021</td>
               <td>basic of java script start</td>
               <td>complete java script</td>
-              <td>NO</td>
+              <td>no</td>
               <td></td>
           </tr>
                                       <tr>                   
@@ -144,7 +144,7 @@
                   <td>08/08/2021</td>
                   <td>project work</td>
                   <td>project on engineering college</td>
-                  <td></td>
+                  <td>no</td>
                   <td></td>
 </tr>
 <tr>                   
@@ -168,7 +168,7 @@
                   <td>05/08/2021</td>
                   <td>index</td>
                   <td>Try to improve previous file</td>
-                  <td>No</td>
+                  <td>no</td>
                   <td></td>
               </tr>
           <tr>
